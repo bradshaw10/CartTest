@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N9i43to9xxOMAXPbF9yETiqUlde08al61gTNpCAH9mQL87PX9i/xF5xDlsygqCaLXiR5LF9kWkI7W07pA34zow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EBradshaw\\source\\repos\\CartTest\\CartTest\\CartTest.iOS\\CartTest.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

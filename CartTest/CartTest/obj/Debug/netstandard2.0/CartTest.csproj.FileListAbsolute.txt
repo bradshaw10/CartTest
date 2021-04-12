@@ -1,0 +1,14 @@
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\bin\Debug\netstandard2.0\CartTest.deps.json
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\bin\Debug\netstandard2.0\CartTest.dll
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\bin\Debug\netstandard2.0\ref\CartTest.dll
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\bin\Debug\netstandard2.0\CartTest.pdb
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\obj\Debug\netstandard2.0\CartTest.csproj.CoreCompileInputs.cache
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\obj\Debug\netstandard2.0\CartTest.AssemblyInfoInputs.cache
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\obj\Debug\netstandard2.0\CartTest.AssemblyInfo.cs
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\obj\Debug\netstandard2.0\CartTest.dll
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\obj\Debug\netstandard2.0\ref\CartTest.dll
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\obj\Debug\netstandard2.0\CartTest.pdb
+C:\Users\EBradshaw\source\repos\CartTest\CartTest\CartTest\obj\Debug\netstandard2.0\CartTest.csprojAssemblyReference.cache
